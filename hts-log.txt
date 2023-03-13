@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Mar 2023 14:10:31 at https://www.classcentral.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qi%e2C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored by HTTrack Website Copier/3.x [XR/YP'2000] -->" -%l "en, *" https://www.classcentral.com/ -O1 "C:\Users\adams\Downloads\Test4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:10:33	Warning: 	HTML file (664633 bytes) retransferred due to lack of cache: https://www.classcentral.com/
+14:10:42	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/ (from primary/primary)
+14:10:42	Warning: 	HTML file (664633 bytes) retransferred due to lack of cache: https://www.classcentral.com/
+14:10:44	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/ (from primary/primary)
+14:10:44	Warning: 	HTML file (664633 bytes) retransferred due to lack of cache: https://www.classcentral.com/
+14:10:47	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 4 links scanned, 0 files written (0 bytes overall), 1 files updated [2000477 bytes received at 125029 bytes/sec], 219 bytes transferred using HTTP compression in 1 files, ratio 100%, 1.3 requests per connection
+(1 errors, 5 warnings, 0 messages)
